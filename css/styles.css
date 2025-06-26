@@ -1,0 +1,142 @@
+body {
+  font-family: "Roboto", sans-serif;
+  color: #434455;
+  background-color: #fff;
+}
+
+ul {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+.header-nav-logo,
+.footer-logo {
+  color: #4d5ae5;
+}
+
+.header-nav-logo-studio,
+.footer-logo-studio {
+  color: #2e2f42;
+}
+
+.footer-logo-studio,
+.footer-text {
+  color: #f4f4fd;
+}
+
+.header-nav-logo,
+.footer-logo {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+
+.team {
+  background-color: #f4f4fd;
+}
+
+.team-list-item {
+  background-color: #fff;
+}
+
+.header-nav-list-item-link,
+.strengths-title-list-item-title,
+.team-title,
+.team-list-item-title,
+.portfolio-title,
+.portfolio-list-item-title {
+  color: #2e2f42;
+}
+
+.hero-banner,
+.footer {
+  background-color: #2e2f42;
+}
+
+.header-nav-list-item-link:hover,
+.header-nav-list-item-link:focus,
+.header-nav-list-item-link:active,
+.header-address-list-item-link:hover,
+.header-address-list-item-link:focus {
+  color: #404bbf;
+}
+
+.hero-banner-title,
+.hero-banner-button {
+  color: #fff;
+}
+
+.header-nav-list-item-link,
+.header-address-list-item-link,
+.strengths-title-list-item-text,
+.team-list-item-text,
+.portfolio-list-item-text,
+.footer-text {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+
+.team-title,
+.portfolio-title {
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+}
+
+.strengths-title-list-item-title,
+.team-list-item-title,
+.portfolio-list-item-title {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+}
+
+.team-title,
+.portfolio-title,
+.hero-banner-title,
+.team-list-item-title,
+.team-list-item-text {
+  text-align: center;
+}
+
+.header-nav-list-item-link {
+  font-weight: 500;
+}
+.header-address-list-item-link {
+  color: #434455;
+}
+
+.header-address {
+  font-style: normal;
+}
+
+.hero-banner-title {
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 1.07;
+  letter-spacing: 0.02em;
+}
+
+.hero-banner-button {
+  font-family: "Roboto", sans-serif;
+  background-color: #4d5ae5;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  cursor: pointer;
+}
+
+.hero-banner-button:hover,
+.hero-banner-button:focus {
+  background-color: #404bbf;
+}
